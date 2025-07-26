@@ -365,7 +365,7 @@ For optimal performance and stability, it's recommended to deploy as many [XDPL]
 - `VI` - Vietnamese
 - `ZH` - Chinese
 
-For the latest language support list, please refer to [Supported Languages - DeepL Documentation](https://developers.deepl.com/docs/getting-started/supported-languages#translation-source-languages).
+For the latest language support list, please refer to [Languages supported - DeepL Documentation](https://developers.deepl.com/docs/getting-started/supported-languages#translation-source-languages).
 
 ### `/debug` (Only available when `DEBUG_MODE=true`)
 
