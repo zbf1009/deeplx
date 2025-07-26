@@ -1,5 +1,7 @@
 # DeepLX
 
+***[English](README.md)***
+
 [![许可证](https://img.shields.io/github/license/xixu-me/deeplx)](#-许可证)
 [![部署状态](https://img.shields.io/website?url=https://dplx.xi-xu.me/translate&label=在线服务)](#-在线服务)
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-orange?logo=cloudflare)](#-自部署)
