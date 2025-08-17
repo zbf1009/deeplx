@@ -1,21 +1,21 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "account_id": "07c56e0dc4b3b1597495aa78fe7ebbf8",
+  "account_id": "455cf33d1e82475fcd807e5127b2d76d",
   "analytics_engine_datasets": [
     {
-      "binding": "ANALYTICS"
+      "binding": "deeplx-analytics", "dataset": "deeplx"
     }
   ],
   "compatibility_date": "2025-07-19",
   "kv_namespaces": [
     {
       "binding": "CACHE_KV",
-      "id": "4d5895d8716247f486493b93edbc5fe9",
+      "id": "90d9aed63c4c4a699fd9fad2f8dfee15",
       "preview_id": "e9e499fe006e4879a0668e792fe2dd15"
     },
     {
       "binding": "RATE_LIMIT_KV",
-      "id": "07147ca64a4c48fe952f62afe469bb44",
+      "id": "6dd8c2c606174a3b8a32aeeb004065b7",
       "preview_id": "bbed039364e5488e8ed58701c3ee5da5"
     }
   ],
